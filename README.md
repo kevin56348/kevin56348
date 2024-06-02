@@ -20,11 +20,11 @@
 
 ## Experience 
 
-2022 Teaching Assistant of Computer Organization Lab.
+Spring 22', 23' Teaching Assistant of Computer Organization Lab.
 
-2023 Teaching Assistant of Computer Organization Course Design.
+Fall 23' Teaching Assistant of Computer Organization Course Design.
 
-2023 Teaching Assistant of Digital Logic.
+Fall 23' Teaching Assistant of Digital Logic.
 
 
 
