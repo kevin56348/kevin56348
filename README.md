@@ -1,3 +1,7 @@
+layout: page
+title: "Welcome to my site!"
+permalink: /home
+
  <center>
      <h1>Yuchen Wang</h1>
      <div>
@@ -20,13 +24,11 @@
 
 ## Experience 
 
-2022 Teaching Assistant of Computer Organization Lab.
+Spring 22', 23' Teaching Assistant of Principle of Computer Organization Lab.
 
-2023 Teaching Assistant of Computer Organization Course Design.
+Fall 23' Teaching Assistant of Curriculum Project of Computer Organization.
 
-2023 Teaching Assistant of Digital Logic.
-
-
+Fall 23' Teaching Assistant of Digital Logic.
 
 ## Education
 
@@ -34,7 +36,7 @@
 
 2022-today Computer Science, School of Computer and Communication Engineering, USTB.
 
-2022-today English Language and Literature, School of Foreign Studies, USTB. 
+2022-today English Language and Literature, School of Foreign Studies, USTB.
 
 ## Awards
 
