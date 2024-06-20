@@ -1,9 +1,3 @@
----
-layout: page
-title: "Welcome to my site!"
-permalink: /home
----
-
  <center>
      <h1>Yuchen Wang</h1>
      <div>
@@ -36,11 +30,11 @@ Fall 23' Teaching Assistant of Digital Logic.
 
 ## Education
 
-2021-2022 Mechanical Engineering, School of Mechanical Engineering, USTB.
-
 2022-today Computer Science, School of Computer and Communication Engineering, USTB.
 
 2022-today English Language and Literature, School of Foreign Studies, USTB.
+
+2021-2022 Mechanical Engineering, School of Mechanical Engineering, USTB.
 
 ## Awards
 
