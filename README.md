@@ -26,9 +26,9 @@
 
 Spring 22', 23' Teaching Assistant of Computer Organization Lab.
 
-Fall 23' Teaching Assistant of Computer Organization Course Design.
+Fall 23', 24' Teaching Assistant of Computer Organization Course Design.
 
-Fall 23' Teaching Assistant of Digital Logic.
+Fall 23', 24' Teaching Assistant of Digital Logic.
 
 ## Education
 
