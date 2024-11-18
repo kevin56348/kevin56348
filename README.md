@@ -20,7 +20,7 @@
 
 ## Coding
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin56348)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin56348) -->
 
 <!--START_SECTION:waka-->
 
