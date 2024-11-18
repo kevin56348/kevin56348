@@ -22,13 +22,16 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin56348)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Experience 
 
-Spring 22', 23' Teaching Assistant of Computer Organization Lab.
+Spring 22', 23' Teaching Assistant of 2050413, Principle of Computer Organization Lab.
 
-Fall 23', 24' Teaching Assistant of Computer Organization Course Design.
+Fall 23', 24' Teaching Assistant of 305040I, Curriculum Project of Computer Organization.
 
-Fall 23', 24' Teaching Assistant of Digital Logic.
+Fall 23', 24' Teaching Assistant of 2240001, Digital Logic.
 
 ## Education
 
