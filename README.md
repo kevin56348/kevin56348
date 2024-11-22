@@ -25,15 +25,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2024 - To: 20 November 2024
+From: 13 October 2024 - To: 21 November 2024
 
-Total Time: 68 hrs 45 mins
+Total Time: 78 hrs 20 mins
 
-Python           27 hrs 27 mins  ██████████░░░░░░░░░░░░░░░   39.87 %
-TeX              20 hrs 17 mins  ███████▒░░░░░░░░░░░░░░░░░   29.48 %
-Markdown         12 hrs 19 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.91 %
-V                5 hrs 48 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-C++              30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+TeX              29 hrs 31 mins  █████████▒░░░░░░░░░░░░░░░   37.63 %
+Python           27 hrs 27 mins  ████████▓░░░░░░░░░░░░░░░░   34.99 %
+Markdown         12 hrs 29 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
+V                5 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+C++              30 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
