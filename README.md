@@ -2,11 +2,6 @@
      <h1>Yuchen Wang</h1>
      <div>
          <span>
-             Phone:
-             15711092205
-         </span>
-         ·
-         <span>
              E-mail:
              Kevin.yc.wang@outlook.com
          </span>
