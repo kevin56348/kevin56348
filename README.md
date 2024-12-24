@@ -3,7 +3,7 @@
      <div>
          <span>
              E-mail:
-             Kevin.yc.wang@outlook.com
+             Kevin [DOT] yc [DOT] wang [AT] outlook [DOT] com
          </span>
          ·
          <span>
@@ -12,7 +12,7 @@
          </span>
      </div>
  </center>
-
+<br>
 <p><img src="https://github-readme-stats.vercel.app/api?username=kevin56348&amp;show_icons=true" alt="GitHub Stats"></p>
 
 ## Coding
