@@ -13,6 +13,8 @@
      </div>
  </center>
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=kevin56348&amp;show_icons=true" alt="GitHub Stats"></p>
+
 ## Coding
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin56348) -->
