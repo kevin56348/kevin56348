@@ -45,14 +45,12 @@ Fall 23', 24' Teaching Assistant of 2240001, Digital Logic.
 
 ## Education
 
-2022-today Computer Science, School of Computer and Communication Engineering, USTB.
+2021-today Computer Science, School of Computer and Communication Engineering, USTB, China.
 
-2022-today English Language and Literature, School of Foreign Studies, USTB.
-
-2021-2022 Mechanical Engineering, School of Mechanical Engineering, USTB.
+2021-today English Language and Literature, School of Foreign Studies, USTB, China.
 
 ## Awards
 
 National Scholarship.
 
-The People’s Scholarship, First Class.
+2 * The People’s Scholarship, First Class.
