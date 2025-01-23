@@ -3,7 +3,7 @@
      <div>
          <span>
              E-mail:
-             Kevin [DOT] yc [DOT] wang [AT] outlook [DOT] com
+             a2V2aW4ueWMud2FuZ0BvdXRvb2suY29t or withour those dots
          </span>
          ·
          <span>
