@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0deb3b85-4b4c-4a85-8825-f2cd66de05d2) <center>
+<center>
      <h1>Yuchen Wang</h1>
      <div>
          <span>
