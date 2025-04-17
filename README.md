@@ -13,7 +13,7 @@
      </div>
  </center>
 <br>
-<p><img src="https://github-readme-stats.vercel.app/api?username=kevin56348&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=kevin56348&amp;show_icons=true&amp;theme=dracula" alt="GitHub Stats"></p>
 
 ## Coding
 
