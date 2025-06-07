@@ -52,14 +52,14 @@ Fall 23', 24' Teaching Assistant of 2240001, Digital Logic.
 
 ## Education
 
+### Beihang University (2025-today)
+
+Major in Computer Science and Technology, School of Computer Science and Engineering.
+
 ### University of Science and Technology Beijing - Beijing, China (2021-2025)
 
 *B.Eng. in Computer Science and Technology*  
 *B.A. in English*  
-
-### Beihang University (2025-today)
-
-Major in Computer Science and Technology, School of Computer Science and Engineering.
 
 ## Awards
 
