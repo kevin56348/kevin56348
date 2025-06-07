@@ -46,20 +46,22 @@ Scala                 45 hrs 37 mins  █▓░░░░░░░░░░░░
 
 ## Experience 
 
-Spring 22', 23' Teaching Assistant of 2050413, Principle of Computer Organization Lab.
-
-Fall 23', 24' Teaching Assistant of 305040I, Curriculum Project of Computer Organization.
-
-Fall 23', 24' Teaching Assistant of 2240001, Digital Logic.
+Spring 22', 23' Teaching Assistant of 2050413, Principle of Computer Organization Lab.  
+Fall 23', 24' Teaching Assistant of 305040I, Curriculum Project of Computer Organization.  
+Fall 23', 24' Teaching Assistant of 2240001, Digital Logic.  
 
 ## Education
 
-2021-today Computer Science, School of Computer and Communication Engineering, USTB, China.
+### University of Science and Technology Beijing - Beijing, China (2021-2025)
 
-2021-today English Language and Literature, School of Foreign Studies, USTB, China.
+*B.Eng. in Computer Science and Technology*  
+*B.A. in English*  
+
+### Beihang University (2025-today)
+
+Major in Computer Science and Technology, School of Computer Science and Engineering.
 
 ## Awards
 
-National Scholarship.
-
-2 * The People’s Scholarship, First Class.
+National Scholarship.  
+Outstanding Graduates of Colleges and Universities in Beijing.  
