@@ -3,7 +3,7 @@
      <div>
          <span>
              E-mail:
-             a2V2aW4ueWMud2FuZ0BvdXRvb2suY29t or without those dots
+             <code>echo a2V2aW4ueWMud2FuZ0BvdXRvb2suY29t | base64 -d</code> or without those dots
          </span>
          ·
          <span>
