@@ -31,15 +31,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2024 - To: 10 July 2025
+From: 13 October 2024 - To: 11 July 2025
 
-Total Time: 491 hrs 25 mins
+Total Time: 492 hrs 16 mins
 
-Other                 271 hrs 38 mins █████████░░░░░░░░░░░░░░░░   35.60 %
-Python                182 hrs 12 mins ██████░░░░░░░░░░░░░░░░░░░   23.88 %
-C++                   75 hrs 7 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Scala                 55 hrs 22 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-TeX                   49 hrs 38 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Other                 271 hrs 42 mins █████████░░░░░░░░░░░░░░░░   35.56 %
+Python                182 hrs 49 mins ██████░░░░░░░░░░░░░░░░░░░   23.93 %
+C++                   75 hrs 7 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+Scala                 55 hrs 22 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+TeX                   49 hrs 38 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
 ```
 
 <!--END_SECTION:waka-->
