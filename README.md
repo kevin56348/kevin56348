@@ -31,11 +31,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2024 - To: 11 August 2025
+From: 13 October 2024 - To: 12 August 2025
 
-Total Time: 548 hrs 18 mins
+Total Time: 548 hrs 20 mins
 
-Other                 286 hrs 19 mins ████████▓░░░░░░░░░░░░░░░░   34.31 %
+Other                 286 hrs 19 mins ████████▓░░░░░░░░░░░░░░░░   34.30 %
 Python                191 hrs 34 mins █████▓░░░░░░░░░░░░░░░░░░░   22.95 %
 C++                   97 hrs 36 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
 Scala                 55 hrs 22 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
