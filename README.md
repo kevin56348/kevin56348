@@ -13,7 +13,7 @@
      </div>
  </center>
 <br>
-<p><img src="https://github-readme-stats.vercel.app/api?username=kevin56348&amp;show_icons=true&amp;theme=dracula" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats-kevin56348s-project.vercel.app/api?username=kevin56348&amp;show_icons=true&amp;theme=dracula" alt="GitHub Stats"></p>
 
 ## Coding
 
@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin56348&layout=compact&count_private=true&theme=dracula)
+![Top Langs](https://github-readme-stats-kevin56348s-project.vercel.app/api/top-langs/?username=kevin56348&layout=compact&count_private=true&theme=dracula)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin56348) -->
 
